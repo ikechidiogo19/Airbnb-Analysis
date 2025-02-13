@@ -28,3 +28,12 @@ In the data preparation phase we performed the following tasks:
 8. How does the construction year of the property affect its price and booking rates?
 9. Are there specific neighborhoods that perform better in terms of and reviews?
 
+### Data analysis
+include some interesting code/features worked with
+
+### Results/Findings
+
+### Recommendations
+
+
+
