@@ -60,6 +60,9 @@ from bnb
 group by cancellation_policy
 order by no_of_reviews desc ;
 ```
+### Dashboard
+![Screenshot 2025-02-14 085554](https://github.com/user-attachments/assets/d8da86c6-07be-4548-9cf5-3f2683206d0d)
+
 
 ### Results/Findings
 The analysis results are summarized as follows:
