@@ -2,8 +2,6 @@
 ### Project overview
 This project provides an in-depth analysis of Airbnb listings, exploring trends, pricing patterns, and host behaviors to uncover valuable insights for stakeholders.
 
-### Data sources
-
 ### Tools Used
 
 - Postgresl sql - Data cleaning and Data analysis
